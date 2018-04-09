@@ -1,3 +1,4 @@
 name: Verdant OS
 markdown: kramdown
 theme: merlot
+permalink: /blog/:year/:month/:day/:title
