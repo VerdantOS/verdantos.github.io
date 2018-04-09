@@ -1,6 +1,6 @@
 name: Verdant OS
 markdown: kramdown
-theme: merlot
+theme: jekyll-theme-merlot
 permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-sitemap
